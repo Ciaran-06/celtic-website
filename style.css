@@ -1,10 +1,10 @@
 body {
-    background: repeating-linear-gradient( 0deg, white, white 50px, #018749 50px, #018749 200px);
     z-index: 0;
+    background: repeating-linear-gradient( 0deg, white, white 50px, #018749 50px, #018749 200px);
 }
 
 #main {
+    z-index: 2;
     padding-top: 10px;
     padding-left: 10px;
-    z-index: 2;
 }
