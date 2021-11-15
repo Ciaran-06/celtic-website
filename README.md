@@ -9,3 +9,4 @@ gives us the signature look of the celtic kit
 background: repeating-linear-gradient( 0deg, white, white 50px, #018749 50px, #018749 200px);
 z-index: 0;
 ```
+>allows us to display a background like the celtic kit
