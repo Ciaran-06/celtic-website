@@ -8,3 +8,7 @@ body {
     padding-top: 10px;
     padding-left: 10px;
 }
+
+#main h1 {
+    text-align: center;
+}
